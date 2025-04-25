@@ -184,6 +184,7 @@ footer {
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
+  text-align: center;
 }
 
 footer a {
@@ -240,15 +241,15 @@ h6 {
 }
 
 .buttonToggle-theme-1 {
-  background-color: var(--buttonToggle-background-theme-1);
+  background-color: var(--key-red-theme-1);
 }
 
 .buttonToggle-theme-2 {
-  background-color: var(--buttonToggle-background-theme-2);
+  background-color: var(--key-red-theme-2);
 }
 
 .buttonToggle-theme-3 {
-  background-color: var(--buttonToggle-background-theme-3);
+  background-color: var(--key-red-theme-3);
 }
 
 .screen-theme-1 {
@@ -273,18 +274,6 @@ h6 {
 
 .toggle-theme-3 {
   background-color: var(--toggle-background-theme-3);
-}
-
-.buttonToggle-theme-1 {
-  background-color: var(--key-background-theme-1);
-}
-
-.buttonToggle-theme-2 {
-  background-color: var(--key-background-theme-2);
-}
-
-.buttonToggle-theme-3 {
-  background-color: var(--key-background-theme-3);
 }
 
 .box-theme-1 {
